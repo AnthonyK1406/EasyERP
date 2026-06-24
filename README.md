@@ -1,1 +1,1 @@
-# MyERP-database
+# EasyERP-database
